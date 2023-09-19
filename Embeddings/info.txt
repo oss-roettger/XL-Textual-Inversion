@@ -1,0 +1,2 @@
+Embedding files consist of the embedding for a single token for both SDXL text_encoders (1/2): {emb,emb2}.
+Files with the prefix "all" consist of a list of embeddings [{emb,emb2},{emb,emb2},...] representing the training progress.

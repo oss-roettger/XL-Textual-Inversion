@@ -14,8 +14,7 @@ Input: a couple of template images. Output: a concept ("Embedding") that can be 
     </tr>
 </table>
 
-The [XL_Inversion.ipynb](./XL_Inversion.ipynb) notebook creates an Embedding for your input images within 15 minutes on a Nvidia 3090 GPU.  
-Starting with a random Embedding, the XL Textual Inversion will optimize it quickly to match your input images:  
+The [XL_Inversion.ipynb](./XL_Inversion.ipynb) notebook creates an Embedding for your input images within 15 minutes on a Nvidia 3090 GPU. Starting with a random Embedding, the XL Textual Inversion will optimize it quickly to match your input images:  
 
 
 <table style="width: 100%">

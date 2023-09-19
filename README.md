@@ -19,7 +19,7 @@ The [XL_Inversion.ipynb](./XL_Inversion.ipynb) notebook creates an Embedding for
 
 <table style="width: 100%">
 <tr>
-    <td colspan=2><img src="./Samples/myPuppet768.gif" alt="" height=128 width=128 border=3></img></td>
+    <td colspan=2><img src="./Samples/myPuppet768.gif" alt="" height=256 width=256 border=3></img></td>
     </tr>
 </table>
 
@@ -56,9 +56,9 @@ Load the T5 Embedding to a single token (e.g. "my") and use it in the standard S
 
 <table style="width: 100%">
 <tr>
-    <td colspan=2><img src="./Samples/20.png" alt="" height=128 width=128 border=3></img></td>
-    <td colspan=2><img src="./Samples/30.png" alt="" height=128 width=128 border=3></img></td>
-    <td colspan=2><img src="./Samples/40.png" alt="" height=128 width=128 border=3></img></td>
+    <td colspan=2><img src="./Samples/20.png" alt="" height=192 width=192 border=3></img></td>
+    <td colspan=2><img src="./Samples/30.png" alt="" height=192 width=192 border=3></img></td>
+    <td colspan=2><img src="./Samples/40.png" alt="" height=192 width=192 border=3></img></td>
     </tr>
 </table>
 
@@ -67,9 +67,9 @@ Load the T5 Embedding to a single token (e.g. "my") and use it in the standard S
 
 <table style="width: 100%">
 <tr>
-    <td colspan=2><img src="./Samples/1.png" alt="" height=128 width=128 border=3></img></td>
-    <td colspan=2><img src="./Samples/8.png" alt="" height=128 width=128 border=3></img></td>
-    <td colspan=2><img src="./Samples/9.png" alt="" height=128 width=128 border=3></img></td>
+    <td colspan=2><img src="./Samples/1.png" alt="" height=192 width=192 border=3></img></td>
+    <td colspan=2><img src="./Samples/8.png" alt="" height=192 width=192 border=3></img></td>
+    <td colspan=2><img src="./Samples/9.png" alt="" height=192 width=192 border=3></img></td>
     </tr>
 </table>
 
@@ -77,9 +77,9 @@ Load the T5 Embedding to a single token (e.g. "my") and use it in the standard S
 
 <table style="width: 100%">
 <tr>
-    <td colspan=2><img src="./Samples/45.png" alt="" height=128 width=128 border=3></img></td>
-    <td colspan=2><img src="./Samples/75.png" alt="" height=128 width=128 border=3></img></td>
-    <td colspan=2><img src="./Samples/90.png" alt="" height=128 width=128 border=3></img></td>
+    <td colspan=2><img src="./Samples/45.png" alt="" height=192 width=192 border=3></img></td>
+    <td colspan=2><img src="./Samples/75.png" alt="" height=192 width=192 border=3></img></td>
+    <td colspan=2><img src="./Samples/90.png" alt="" height=192 width=192 border=3></img></td>
     </tr>
 </table>
 

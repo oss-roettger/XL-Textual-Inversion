@@ -25,7 +25,7 @@ The [XL_Inversion.ipynb](./XL_Inversion.ipynb) notebook creates an Embedding for
 
 
 ## XL Embedding ➡ Stable Diffusion XL 1.0 Pipeline
-Load the T5 Embedding to a single token (e.g. "my") and use it in the standard Stable Diffusion XL prompts (see [*XL_Apply_Inversion.ipynb*](./XL_Apply_Inversion.ipynb))  
+Load the XL Embedding to a single token (e.g. "my") and use it in the standard Stable Diffusion XL prompts (see [*XL_Apply_Inversion.ipynb*](./XL_Apply_Inversion.ipynb))  
 
     def set_XLembedding(base,emb,token="my"):
     with torch.no_grad():            

@@ -1,4 +1,4 @@
-# XL Textual Inversion for [Stable Diffusion XL 1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) on a 24 GB GPU
+# XL Textual Inversion for [Stable Diffusion XL 1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) SDXL on a 24 GB GPU
 [*XL_Inversion.ipynb*](./XL_Inversion.ipynb) is **Copyright © 2023 [HANS ROETTGER](mailto:oss.roettger@posteo.org)** and distributed under the terms of **[AGPLv3](https://www.gnu.org/licenses/agpl-3.0.html)**.  
 
 This is an implementation of the textual inversion algorithm to incorporate your own objects, faces or styles into Stable Diffusion XL 1.0.

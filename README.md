@@ -6,6 +6,9 @@ Input: a couple of template images. Output: a concept ("Embedding") that can be 
 
 **Please appreciate weeks of intensive work and leave me a ⭐ star in the top right!**
 
+<span style="background-color: #FFFF50">2023-11-16 Update: "time_ids" problems with newer diffusers versions solved (tested with 0.19.3 & 0.23.1). Thanks for the notice, Bo Sun!</span>
+
+
 ## Input Images ➡ XL Embedding
 
 <table style="width: 100%">

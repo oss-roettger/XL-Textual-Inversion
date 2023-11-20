@@ -8,7 +8,9 @@ Input: a couple of template images. Output: a concept ("Embedding") that can be 
 
 > [!NOTE] 
 > 2023-11-16
-> "time_ids" problem with newer diffusers versions solved (update tested with diffusers 0.19.3, 0.23.1).  
+> "time_ids" problem with newer diffusers versions solved
+> 
+> (update tested with diffusers 0.19.3, 0.23.1)    
 > Thanks for the notice, Bo Sun!
 
 

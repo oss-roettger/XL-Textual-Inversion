@@ -6,7 +6,14 @@ Input: a couple of template images. Output: a concept ("Embedding") that can be 
 
 **Please appreciate weeks of intensive work and leave me a ⭐ star in the top right!**
 
-> [!NOTE] 
+> [!NOTE]
+> 2023-12-09
+> Embeddings created by XL_Inversion work problem-free with [SDXL-Turbo](https://huggingface.co/stabilityai/sdxl-turbo) (diffusers V 0.24.0)!  
+> > pipe = AutoPipelineForText2Image.from_pretrained(...  
+> > set_XLembedding(pipe,embedding,token=learn_token)  
+> > prompt="The 3D rendering of a {}".format(learn_token)  
+> > image = pipe(...
+>   
 > 2023-11-16
 > "time_ids" problem with newer diffusers versions solved
 > 
